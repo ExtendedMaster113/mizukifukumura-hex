@@ -1,0 +1,53 @@
+@@	F46F0	Fukumura Hexadecimal Numerals	F46FF
+@@+	Characters for hexadecimal digits used in the Fukumura notation.
+
+@	Hexadecimal Digits
+
+F46F0	FUKUMURA HEXADECIMAL DIGIT ZERO
+	= hexadecimal digit 0
+	* used for base-16 notation
+
+F46F1	FUKUMURA HEXADECIMAL DIGIT ONE
+	= hexadecimal digit 1
+
+F46F2	FUKUMURA HEXADECIMAL DIGIT TWO
+	= hexadecimal digit 2
+
+F46F3	FUKUMURA HEXADECIMAL DIGIT THREE
+	= hexadecimal digit 3
+
+F46F4	FUKUMURA HEXADECIMAL DIGIT FOUR
+	= hexadecimal digit 4
+
+F46F5	FUKUMURA HEXADECIMAL DIGIT FIVE
+	= hexadecimal digit 5
+
+F46F6	FUKUMURA HEXADECIMAL DIGIT SIX
+	= hexadecimal digit 6
+
+F46F7	FUKUMURA HEXADECIMAL DIGIT SEVEN
+	= hexadecimal digit 7
+
+F46F8	FUKUMURA HEXADECIMAL DIGIT EIGHT
+	= hexadecimal digit 8
+
+F46F9	FUKUMURA HEXADECIMAL DIGIT NINE
+	= hexadecimal digit 9
+
+F46FA	FUKUMURA HEXADECIMAL DIGIT TEN
+	= hexadecimal digit A
+
+F46FB	FUKUMURA HEXADECIMAL DIGIT ELEVEN
+	= hexadecimal digit B
+
+F46FC	FUKUMURA HEXADECIMAL DIGIT TWELVE
+	= hexadecimal digit C
+
+F46FD	FUKUMURA HEXADECIMAL DIGIT THIRTEEN
+	= hexadecimal digit D
+
+F46FE	FUKUMURA HEXADECIMAL DIGIT FOURTEEN
+	= hexadecimal digit E
+
+F46FF	FUKUMURA HEXADECIMAL DIGIT FIFTEEN
+	= hexadecimal digit F
